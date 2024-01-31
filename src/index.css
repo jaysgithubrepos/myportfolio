@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  position: relative;
+  background-image: url(https://websitedemos.net/web-developer-portfolio-04/wp-content/uploads/sites/1212/2023/03/bg-01.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #000000;
+  font-family: 'VT323-Regular';
+    
+ 
+  
+}
+@font-face {
+font-family: 'VT323-Regular';
+src: url('./src/assets/fonts/VT323-Regular.ttf') format('truetype');
+
+}

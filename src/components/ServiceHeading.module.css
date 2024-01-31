@@ -1,0 +1,16 @@
+.serviceHeading ul li{
+  color:#fff;
+  width:100%;
+  font-size: 7vw;
+  text-align: center;
+}
+
+.serviceHeading ul li:nth-child(1){
+  color:#9a99ff;
+} 
+.serviceHeading ul li:nth-child(2){
+  color:#2fcbef;
+}
+.serviceHeading ul li:nth-child(3){
+  color:#e6db74;
+}

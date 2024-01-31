@@ -1,0 +1,22 @@
+.aboutMesSecondDiv h2{
+  color:white;
+  font-size: 7vw;
+  text-align: center;
+  
+}
+.aboutHeading{
+ color: #9a99ff;
+ font-size:2vw;
+ text-align: center;
+}
+.aboutMesSecondDiv{
+  padding:100px 100px 30px 100px;
+ 
+}
+.aboutMesSecondDiv p{
+  color:#e6db74;
+  font-size: 22px;
+  text-align: center;
+  word-wrap: break-word;
+  
+}

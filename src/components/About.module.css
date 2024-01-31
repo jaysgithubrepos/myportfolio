@@ -1,0 +1,28 @@
+.introductionTopBar{
+  padding:40px 0px;
+}
+.introduction{
+  color:#fff;
+  font-size:24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.aboutMeDiv{
+  display:flex;
+  justify-content: center;
+}
+.aboutMe{
+  color:#e6db74;
+}
+.leftCurlyBrace{
+  color:#fff;
+}
+.aboutMeDiv span{
+  font-size:8vw;
+}
+.animation{
+  color:#fff;
+  font-size:30px;
+  text-align: center;
+ transform:rotate(90deg);
+}

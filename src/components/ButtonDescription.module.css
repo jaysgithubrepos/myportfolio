@@ -1,0 +1,11 @@
+.buttonDescription{
+  width:200px;
+  height:50px;
+  background-color: #2fcbef;
+  color:#fff;
+  font-size: 24px;
+}
+.btnDesDiv{
+  display: flex;
+  justify-content: center;
+}

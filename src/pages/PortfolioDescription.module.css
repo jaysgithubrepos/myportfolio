@@ -1,0 +1,25 @@
+.portfolioMaindiv{
+
+  border-top:1px solid grey;
+  border-bottom:0.5px solid grey;
+  border-right:0.5px solid grey;
+}
+.portfolioMaindiv .portfolioImage1,.portfolioMaindiv .portfolioImage2{
+  padding-right:30px;
+  padding-top:30px;
+}
+.portfolioImage3{
+  padding: 4% 0% 8% 36%;
+  border-top:1px solid grey;
+  border-bottom:0.5px solid grey;
+  
+}
+.firstparagraph{
+  color:#fff;
+  font-size:28px;
+  
+}
+.secondparagraph{
+  color:#e6db74;
+  font-size: 24px;
+}
