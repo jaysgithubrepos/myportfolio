@@ -22,6 +22,7 @@ const About = () =>{
          <span className={`${styles.leftCurlyBrace} text-center`}>{'"}'}</span>
          </div>
          <h5 className={styles.animation}>=={">"}</h5>
+         
   </div>
 
   );
